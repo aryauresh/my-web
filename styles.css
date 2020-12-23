@@ -243,9 +243,13 @@ h4{
   }
   #homepage{
     height: 60rem;
-	  width: 480px;
+	  width: 520px;
 	  width: 100%;
   }
+	#about-me,#works,#container{
+		width: 520px;
+	}
+	#
   .image-1{
     left: 4px;
     size: 50%;
