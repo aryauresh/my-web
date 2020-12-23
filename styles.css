@@ -248,12 +248,12 @@ h4{
     top: -9rem;
   }
   .c{
-    left: 40px;
+    left: 10px;
   }
   .c-2{
     width: 500px;
     height: 700px;
-	  padding-left: 4px;
+    padding-left: 1px;
   }
   .about-content{
     top: 7rem;
@@ -262,11 +262,8 @@ h4{
   .img-2{
     visibility: hidden;
   }
-  .w{
-    width: 6px;
-   }
    .container{
-     padding-left: 4px;
+     padding-left: 1px;
 	}
   .img-container{
     height: 15rem;
