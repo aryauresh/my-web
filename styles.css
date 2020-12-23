@@ -253,6 +253,7 @@ h4{
   .c-2{
     width: 500px;
     height: 700px;
+	  padding-left: 4px;
   }
   .about-content{
     top: 7rem;
@@ -261,6 +262,12 @@ h4{
   .img-2{
     visibility: hidden;
   }
+  .w{
+    width: 6px;
+   }
+   .container{
+     padding-left: 4px;
+	}
   .img-container{
     height: 15rem;
     width: 22rem;
