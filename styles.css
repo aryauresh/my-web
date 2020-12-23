@@ -244,10 +244,9 @@ h4{
   #homepage{
     height: 60rem;
 	  width: 600px;
-	  width: 100%;
   }
-	#about-me,#works,#container{
-		width: 600px;
+	#about-me,#works,.container,#contact-me,#footer{
+		width: 630px;
 	}
   .image-1{
     left: 4px;
