@@ -248,8 +248,9 @@ h4{
     left: 40px;
     top: -9rem;
   }
-  .c{
-    left: 3px;
+  .c-1{
+    left: 2px;
+	  padding-left: 2px;
   }
   .c-2{
     width: 500px;
