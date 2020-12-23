@@ -236,7 +236,7 @@ h4{
 .logos{
   padding:0 2%;
 }
-@media screen and (max-width:481px) {
+@media screen and (max-width:480px) {
   #homepage{
     height: 60rem;
   }
@@ -254,7 +254,7 @@ h4{
   .c-2{
     width: 500px;
     height: 700px;
-    right: -80px;
+    right: -180px;
   }
   .about-content{
     top: 7rem;
