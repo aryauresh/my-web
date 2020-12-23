@@ -264,7 +264,7 @@ h4{
     visibility: hidden;
   }
    .container{
-     padding-left: 1px;
+     left: 2px;
 	}
   .img-container{
     height: 15rem;
