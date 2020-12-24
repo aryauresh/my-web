@@ -237,17 +237,19 @@ h4{
   padding:0 2%;
 }
 @media screen and (max-width:480px) {
-  body{
-     width: 100%;
-	  height: 100%;
+  html{
+	  width: 100%;
+	  min-height : 100%;
+  }
+ body{
+	 width: inherit;
+	 min-height: inherit;
+	 margin:0;
+	 padding: 0;
   }
   #homepage{
     height: 60rem;
-	  width: 630px;
   }
-	#about-me,#works,.container,#contact-me,#footer{
-		width: 630px;
-	}
   .image-1{
     left: 4px;
     size: 50%;
