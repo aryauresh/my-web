@@ -236,17 +236,17 @@ h4{
 .logos{
   padding:0 2%;
 }
-@media screen and (max-width:480px) {
-  html{
-	  width: 100%;
-	  min-height : 100%;
-  }
- body{
-	 width: inherit;
-	 min-height: inherit;
-	 margin:0;
-	 padding: 0;
-  }
+@media screen and (max-width:480px) 
+{
+ *{
+  box-sizing: border-box;
+}
+
+body{
+  height:100%;
+  width:100%;
+  margin:0;
+}
   #homepage{
     height: 60rem;
     width: 100%;
