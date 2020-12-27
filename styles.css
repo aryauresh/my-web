@@ -261,7 +261,7 @@ body{
   margin:0;
 }
   #homepage{
-    height: 60rem;
+    height: 50rem;
     width: 400px;
    padding: 0;
   }
@@ -278,6 +278,7 @@ body{
     }
   .content{
     left: -20px;
+    right: -1rem;
     top: -12rem;
   }
   .c-1{
