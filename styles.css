@@ -24,7 +24,7 @@ body{
 }
 #homepage{
   background-image: linear-gradient( to bottom right,#7EE8FA,#EEC0C6);
-  height: 610px;
+  height: 510px;
 }
 .navbar{
   padding-bottom:0rem;
@@ -275,15 +275,17 @@ body{
     top: -9rem;
   }
   .c-1{
-    left: 0.5px;
-	  right: -30px;
-	  padding-left: 1px;
+    left: -3rem;
+    padding-left: 1px;
   }
   .c-2{
     width: 500px;
     height: 700px;
-    right: -180px;
   }
+  .w
+   {
+   width: 5px;
+   }
   .about-content{
     top: 7rem;
     height: 40rem;
