@@ -265,17 +265,17 @@ body{
    padding: 0;
   }
   .image-1{
-    left: -2rem;
+    left: 3rem;
     size: 20%;
     width : auto;
     height: 420px;
   }
   .content{
-    left: 40px;
+    left: -40px;
     top: -9rem;
   }
   .c-1{
-    left: -3rem;
+    left: -4.5rem;
     padding-left: 1px;
   }
   .c-2{
