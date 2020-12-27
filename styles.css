@@ -291,7 +291,8 @@ body{
     height: 40rem;
   }
   .img-2{
-    visibility: hidden;
+    width: hidden;
+    height: 430px;
   }
    .container{
      right: 10px;
