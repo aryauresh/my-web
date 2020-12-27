@@ -296,15 +296,17 @@ body{
    {
    width: 100%;
    padding: 0;
+   padding-left: -10px;
    }
   .about-content{
     top: 7rem;
-    height: 40rem;
+    height: 43rem;
   }
   .img-2{
     width: auto;
     height: 230px;
-    top: -9rem; 
+    top: -9rem;
+	  visibility: hidden;
   }
    .container{
      right: 10px;
@@ -312,7 +314,7 @@ body{
   .img-container{
     height: 15rem;
     width: 30rem;
-    left: -5rem;
+    left: -15rem;
   }
   .im{
     height: 15rem;
