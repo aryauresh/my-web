@@ -262,10 +262,12 @@ body{
   #homepage{
     height: 60rem;
     width: 900px;
+   padding: 0;
   }
   .image-1{
     left: 4px;
     size: 20%;
+    
   }
   .content{
     left: 40px;
