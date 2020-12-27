@@ -291,7 +291,7 @@ body{
     height: 40rem;
   }
   .img-2{
-    width: hidden;
+    width: auto;
     height: 430px;
   }
    .container{
@@ -312,4 +312,8 @@ body{
   .form{
     width: 200px;
   }
+}
+@media screen and (min-width: 769px) and (max-width: 1024px)
+{
+  
 }
