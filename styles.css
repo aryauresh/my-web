@@ -267,6 +267,8 @@ body{
   .image-1{
     left: -2rem;
     size: 20%;
+    width : auto;
+	  height: 4px;
   }
   .content{
     left: 40px;
