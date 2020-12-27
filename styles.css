@@ -271,6 +271,9 @@ body{
     width : auto;
     height: 420px;
   }
+   #about-me
+    {
+    height : 60rem;	
   .content{
     left: -30px;
     top: -9rem;
@@ -295,6 +298,7 @@ body{
   .img-2{
     width: auto;
     height: 430px;
+    top: -4rem; 
   }
    .container{
      right: 10px;
