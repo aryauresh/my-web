@@ -264,7 +264,8 @@ body{
     width: 400px;
    padding: 0;
   }
-  .image-1{
+  .image-1{ 
+    padding-right: 4rem;
     left: 3rem;
     size: 20%;
     width : auto;
