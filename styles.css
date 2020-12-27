@@ -271,11 +271,11 @@ body{
     height: 420px;
   }
   .content{
-    left: -40px;
+    left: -30px;
     top: -9rem;
   }
   .c-1{
-    left: -4.5rem;
+    left: -3.5rem;
     padding-left: 1px;
   }
   .c-2{
@@ -285,6 +285,7 @@ body{
   .w
    {
    width: 100%;
+   padding: 0;
    }
   .about-content{
     top: 7rem;
