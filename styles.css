@@ -266,8 +266,7 @@ body{
    padding: 0;
   }
   .image-1{ 
-    padding-right: 1rem;
-    left: -18rem;
+    left: -5rem;
     size: 20%;
     width : auto;
     height: 390px;
@@ -277,7 +276,7 @@ body{
     height : 35rem;
     }
   .content{
-    right: -3rem;
+    right: -2rem;
     top: -7rem;
   }
   .c-1{
