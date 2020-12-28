@@ -261,24 +261,24 @@ body{
   margin:0;
 }
   #homepage{
-    height: 50rem;
+    height: 47rem;
     width: 400px;
    padding: 0;
   }
   .image-1{ 
     padding-right: 4rem;
-    left: 3rem;
+    left: -1rem;
     size: 20%;
     width : auto;
-    height: 420px;
+    height: 390px;
   }
    #about-me
     {
     height : 35rem;
     }
   .content{
-    left: -20px;
-    right: -1rem;
+    left: -16px;
+    right: -3rem;
     top: -12rem;
   }
   .c-1{
